@@ -1,0 +1,4 @@
+baseURL = 'https://blog.radio.indymedia.pt'
+languageCode = 'en-us'
+title = 'radio.indymedia.pt'
+theme = 'poison'
