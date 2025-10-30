@@ -14,9 +14,9 @@ pluralizelisttitles = false   # removes the automatically appended "s" on sideba
     dark_mode = true                      # optional - defaults to false
     favicon = "/images/radioparaleloblack.png"             # path to favicon (defaults to favicon.png)
 
-    MENU PLACEHOLDER
+   #  MENU PLACEHOLDER
      # Menu dict keys =
-      Name = "Rádio Paralelo" 
+    #  Name = "Rádio Paralelo" 
         # URL:          The directory relative to the content directory.
         # HasChildren:  If the directory's files should be listed.  Default is true.
         # Limit:        If the files should be listed, how many should be shown.
